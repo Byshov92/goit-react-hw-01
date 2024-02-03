@@ -1,3 +1,14 @@
+.item{
+    list-style: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
 .friendList{
     margin: 20px 0 auto;
     display: flex;
